@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>37F6C976-10CB-42C0-A768-BBDAF1B5D8CD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CustomMenu</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>48F77717F9B66AB9CCED98504819EF84580FCFDE</key>
+		<string>https://github.com/Yuyutsu/CustomMenu.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CustomMenu.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>48F77717F9B66AB9CCED98504819EF84580FCFDE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Yuyutsu/CustomMenu.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>48F77717F9B66AB9CCED98504819EF84580FCFDE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>48F77717F9B66AB9CCED98504819EF84580FCFDE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CustomMenu</string>
+		</dict>
+	</array>
+</dict>
+</plist>
